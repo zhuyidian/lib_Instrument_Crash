@@ -1,0 +1,16 @@
+# CrashLocal
+/CrashLocal/.gradle/
+/CrashLocal/.idea/
+/CrashLocal/.svn/
+/CrashLocal/java_pid5600.hprof   
+/CrashLocal/java_pid8156.hprof 
+/CrashLocal/*.hprof 
+/CrashLocal/*.iml
+
+#app
+/CrashLocal/app/build/
+/CrashLocal/app/*.iml
+
+#crashlocal
+/CrashLocal/crashlocal/build/
+/CrashLocal/crashlocal/*.iml
