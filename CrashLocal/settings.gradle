@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name='Optimize_Day06'
+include ':crashlocal'
