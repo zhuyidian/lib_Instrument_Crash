@@ -20,7 +20,7 @@ apply plugin: 'android-aspectjx'
 implementation 'com.github.zhuyidian.lib_Instrument:excel:V1.1.8'
 ```
 ## 3.版本更新
-* V1.0.0
+* V1.0.7
 ```
-首次成功运行版本
+成功运行版本
 ```
