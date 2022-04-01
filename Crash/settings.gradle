@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name='Crash'
+include ':crashlocal'
+include ':crash'
