@@ -1,18 +1,11 @@
-# lib_Instrument_CrashLocal
+# lib_Instrument_Crash
 
-## 1.使用
+## 1.local crash使用
 * 1，初始化
 ```xml
-//将native和java层的异常信息全部抛到java层的onCrash方法
-NativeCrashMonitor nativeCrashMonitor = new NativeCrashMonitor();
-  nativeCrashMonitor.init(new CrashHandlerListener() {
-      @Override
-      public void onCrash(String threadName, Error error) {
-
-      }
-});
+CrashMonitor.getInstance().init(getApplication());
 ```
 * 2，测试native崩溃
 ```xml
-NativeCrashMonitor.nativeCrash();
+CrashMonitor.getInstance().nativeCrashTest();
 ```
