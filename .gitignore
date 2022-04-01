@@ -1,16 +1,20 @@
-# CrashLocal
-/CrashLocal/.gradle/
-/CrashLocal/.idea/
-/CrashLocal/.svn/
-/CrashLocal/java_pid5600.hprof   
-/CrashLocal/java_pid8156.hprof 
-/CrashLocal/*.hprof 
-/CrashLocal/*.iml
+# Crash
+/Crash/.gradle/
+/Crash/.idea/
+/Crash/.svn/
+/Crash/java_pid5600.hprof   
+/Crash/java_pid8156.hprof 
+/Crash/*.hprof 
+/Crash/*.iml
 
 #app
-/CrashLocal/app/build/
-/CrashLocal/app/*.iml
+/Crash/app/build/
+/Crash/app/*.iml
+
+#crash
+/Crash/crash/build/
+/Crash/crash/*.iml
 
 #crashlocal
-/CrashLocal/crashlocal/build/
-/CrashLocal/crashlocal/*.iml
+/Crash/crashlocal/build/
+/Crash/crashlocal/*.iml
