@@ -1,4 +1,4 @@
-# lib_Instrument_Crash
+# Crash
 
 ## 1.local crash使用
 * 1，初始化
