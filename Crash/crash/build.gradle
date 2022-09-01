@@ -38,7 +38,7 @@ android {
 dependencies {
     implementation fileTree(include: ['*.jar','*.aar'], dir: 'libs')
 //    implementation rootProject.ext.dependencies.annotations
-    implementation 'com.android.support:appcompat-v7:30.0.0'
+    implementation 'com.android.support:appcompat-v7:28.0.0'
 //    implementation 'com.github.zhuyidian:lib_Instrument_CrashLocal:V1.0.6'
     implementation project(path: ':crashlocal')
 }
